@@ -20,7 +20,7 @@ This Python script allows you to send messages to a WhatsApp group. It is design
 1. **Clone the Repository**
    
    git clone https://github.com/Dagimbirhanu-B/send-message-to-whatsapp-group
-   cd send-message-to-whatsapp-group
+   -cd send-message-to-whatsapp-group
 ## install packages
 
    pip install -r requirements.txt
